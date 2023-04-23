@@ -4,12 +4,12 @@ import "firebase/compat/auth"
 import "firebase/compat/storage"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDLeYV0RtXJpUH5w4C4ukdJEQJbDiIWRk4",
-  authDomain: "fii-practic-memes.firebaseapp.com",
-  projectId: "fii-practic-memes",
-  storageBucket: "fii-practic-memes.appspot.com",
-  messagingSenderId: "429868905828",
-  appId: "1:429868905828:web:ffb3447a7ecbc69b9b7671",
+  apiKey: "AIzaSyD6o-u48USiQ88In15sCl1I9OP-msrwQ3c",
+  authDomain: "fiipractic-f30ea.firebaseapp.com",
+  projectId: "fiipractic-f30ea",
+  storageBucket: "fiipractic-f30ea.appspot.com",
+  messagingSenderId: "350779711775",
+  appId: "1:350779711775:web:9f392d7461b0d4c796902a",
 }
 
 firebase.initializeApp(firebaseConfig)

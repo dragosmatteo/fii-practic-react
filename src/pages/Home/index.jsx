@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react"
 import styled from "styled-components"
-import Card from "../../components/cards/Meme"
+import Card from "../../components/cards/MemeHome"
 import { db } from "../../utils/firebase"
 import { Spin } from "antd"
 
